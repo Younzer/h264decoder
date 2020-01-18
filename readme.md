@@ -31,7 +31,7 @@ Notes:
 ```
     mkdir build
     cd build 
-    cmake ../CMakeList.txt -DPython_ADDITIONAL_VERSIONS=3.7 -DBoost_PYTHON_LIBRARY_RELEASE=/usr/lib//usr/lib/arm-linux-gnueabihf/libboost_python37.so ../
+    cmake ../CMakeList.txt -DPython_ADDITIONAL_VERSIONS=3.7 -DBoost_PYTHON_LIBRARY_RELEASE=/usr/lib/usr/lib/arm-linux-gnueabihf/libboost_python37.so ../
     make
 ``` 
  
